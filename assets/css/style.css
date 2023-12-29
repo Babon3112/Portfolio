@@ -216,6 +216,16 @@ main hr {
   text-align: center;
 }
 
+.third-section a {
+  text-decoration: none;
+  color: #d9e2ef;
+  transition: color 0.3s ease;
+}
+
+.third-section a:hover {
+  color: #e85a5a;
+}
+
 footer {
   background-color: #2a2e4e;
   color: #ffffff;
