@@ -5,8 +5,8 @@
 }
 
 body {
-  background-color: #0a192f;
-  color: #d9e2ef;
+  background-color: #1a1a2e;
+  color: #ffffff;
   font-family: "Poppins", sans-serif;
   box-sizing: border-box;
   margin: 0;
@@ -18,8 +18,8 @@ nav {
   justify-content: space-between;
   align-items: center;
   height: 8vh;
-  background-color: #00112b;
-  border-bottom: 2px solid #64ffda;
+  background-color: #2a2e4e;
+  border-bottom: 2px solid #0e286d;
   padding: 0 20px;
 }
 
@@ -46,16 +46,16 @@ nav ul li {
 
 nav a {
   text-decoration: none;
-  color: #d9e2ef;
+  color: #ffffff;
   transition: color 0.3s ease;
 }
 
 nav a:hover {
-  color: #ff9f1c;
+  color: #e85a5a;
 }
 
 .left {
-  font-size: 2vmax;
+  font-size: 2.5vmax;
 }
 
 .right {
@@ -79,7 +79,7 @@ nav a:hover {
   height: 70vh;
 }
 
-.firstsection>div {
+.firstsection > div {
   width: 40vw;
 }
 
@@ -88,16 +88,16 @@ nav a:hover {
 }
 
 .name {
-  color: #ff9f1c;
+  color: #e85a5a;
   font-weight: 500;
 }
 
 .intro {
-  color: #ff5722;
+  color: #ebae2c;
 }
 
 #element {
-  color: #ff9f1c;
+  color: #e85a5a;
 }
 
 .buttons {
@@ -106,8 +106,8 @@ nav a:hover {
 }
 
 .btn {
-  background-color: #ff9f1c;
-  color: #fff;
+  background-color: #e85a5a;
+  color: #ffffff;
   border: none;
   font-size: 1.5vmax;
   border-radius: 10px;
@@ -117,30 +117,23 @@ nav a:hover {
 }
 
 .btn:hover {
-  background-color: #ff5722;
+  background-color: #ebae2c;
 }
 
 button a {
   text-decoration: none;
-  color: #fff;
+  color: #ffffff;
 }
 
 .rightsection img {
   width: 100%;
 }
 
-.f2s {
+main hr {
   border: 0;
-  background: #ff9f1c;
+  background: #e85a5a;
   height: 1px;
   margin: 0 5vw 50px;
-}
-
-.s2t {
-  border: 0;
-  background: #ff9f1c;
-  height: 1px;
-  margin: 0 1vw;
 }
 
 .secondsection {
@@ -154,11 +147,11 @@ button a {
 }
 
 .text-grey {
-  color: #8d99ae;
+  color: #b8b8d1;
 }
 
 .horizontal-line1 {
-  background: #d9e2ef;
+  background: #ffffff;
   width: 80vw;
   height: 3px;
   margin: 5px 0;
@@ -167,7 +160,7 @@ button a {
 }
 
 .horizontal-line2 {
-  background: #d9e2ef;
+  background: #ffffff;
   width: 80vw;
   height: 3px;
   margin: 70px 0;
@@ -176,7 +169,7 @@ button a {
 }
 
 .vertical-line {
-  background: #d9e2ef;
+  background: #ffffff;
   width: 0.5px;
   height: 75px;
   margin: 0 2vw;
@@ -202,18 +195,18 @@ button a {
   top: 15px;
   width: 11vw;
   font-size: 0.7vmax;
-  line-height: 20PX;
+  line-height: 20px;
   left: -87.5px;
 }
 
 .project a {
   text-decoration: none;
-  color: #fff;
+  color: #ffffff;
   transition: color 0.3s ease;
 }
 
 .project a:hover {
-  color: #ff9f1c;
+  color: #e85a5a;
 }
 
 .third-section {
@@ -223,31 +216,21 @@ button a {
   text-align: center;
 }
 
-.third-section a {
-  text-decoration: none;
-  color: #d9e2ef;
-  transition: color 0.3s ease;
-}
-
-.third-section a:hover {
-  color: #ff9f1c;
-}
-
 footer {
-  background-color: #0f2649;
-  color: #d9e2ef;
+  background-color: #2a2e4e;
+  color: #ffffff;
   text-align: center;
 }
 
 footer a {
   padding-left: 15px;
   text-decoration: none;
-  color: #d9e2ef;
+  color: #ffffff;
   transition: color 0.3s ease;
 }
 
 footer a:hover {
-  color: #ff9f1c;
+  color: #e85a5a;
 }
 
 footer .elements {
@@ -255,12 +238,12 @@ footer .elements {
 }
 
 .footer-first {
-  font-size: 2vmax;
+  font-size: 2.3vmax;
   font-weight: 700;
 }
 
 .footer-three {
-  color: #8d99ae;
+  color: #b8b8d1;
   font-size: 12px;
 }
 
