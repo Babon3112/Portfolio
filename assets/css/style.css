@@ -129,7 +129,7 @@ button a {
   width: 100%;
 }
 
-main hr {
+.f2s {
   border: 0;
   background: #e85a5a;
   height: 1px;
@@ -207,6 +207,13 @@ main hr {
 
 .project a:hover {
   color: #e85a5a;
+}
+
+.s2t {
+  border: 0;
+  background: #e85a5a;
+  height: 1px;
+  margin: 0 3vw;
 }
 
 .third-section {
