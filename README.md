@@ -1,4 +1,4 @@
-<h1><a href = "https://babon3112.github.io/portfolio/">portfolio</a></h1>
+<h1><a href = "https://babon3112.github.io/portfolio/">Portfolio</a></h1>
 
 <div>
 Hi👋🏼, I'm Arnab, a passionate learner with a knack for Expertise various technology. With a background in JavaScript, I thrive on turning ideas into innovative solutions.
