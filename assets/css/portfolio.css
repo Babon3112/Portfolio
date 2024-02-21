@@ -62,7 +62,7 @@ nav a:hover {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 1vmax;
+  font-size: 1.2vmax;
 }
 
 .myimage {
@@ -290,5 +290,9 @@ footer .elements {
     width: 16vw;
     left: -25px;
     line-height: 10px;
+  }
+
+  .btn{
+    margin-top: 10px;
   }
 }
